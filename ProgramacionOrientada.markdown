@@ -62,5 +62,7 @@ Las principales características de la programación orientada a objetos, son la
 
 ### Referencias bibliográficas
 https://www.ecured.cu/Programaci%C3%B3n_Orientada_a_Objetos (ecured.cu, s.f.)
+
 http://www.alegsa.com.ar/Diccionario/C/12117.php (Ricardo Madrigal, alegsa.com.ar, 2010)
+
 http://culturacion.com/que-es-la-programacion-orientada-a-objetos-ii/ (culturacion.com, s.f.)
