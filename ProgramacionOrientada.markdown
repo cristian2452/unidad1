@@ -1,6 +1,6 @@
 # Programación orientada a objetos
 
-### Tabla de contenidos:
+## Tabla de contenidos:
 - Introducción
 - Diferencia entre programación orientada a objetos y estructurada
 - Conceptos básicos de la POO
@@ -8,11 +8,11 @@
 - Referencias bibliográficas
 
 
-### Introducción
+## Introducción
 Programación orientada a objetos (POO). Es un paradigma de programación que usa objetos y sus interacciones, para diseñar aplicaciones y programas informáticos. Está basado en varias técnicas, incluyendo herencia, abstracción, polimorfismo y encapsulamiento.
 
 
-### Diferencia entre programación orientada a objetos y estructurada
+## Diferencia entre programación orientada a objetos y estructurada
 Aunque la programación estructurada (a veces llamada procedural o procedimental) condujo a mejoras de la técnica de programación secuencial, los métodos modernos de diseño de software orientado a objetos incluyen mejoras entre las que están el uso de los patrones de diseño, diseño por contrato, y lenguajes de modelado (ej: UML).
 
 Las principales diferencias entre la programación estructurada y la orientada a objetos son:
@@ -24,7 +24,7 @@ Las principales diferencias entre la programación estructurada y la orientada a
 - La programación orientada a objetos incorpora en su entorno de ejecución mecanismos tales como el polimorfismo y el envío de mensajes entre objetos. 
 
 
-### Conceptos básicos de la POO
+## Conceptos básicos de la POO
 Entre los principales conceptos de la POO, tenemos los siguientes:
 
 **Clase:** Son definiciones de propiedades y comportamiento de un tipo de objeto específico.
@@ -44,7 +44,7 @@ Entre los principales conceptos de la POO, tenemos los siguientes:
 ![imagen](http://s.culturacion.com/wp-content/uploads/2011/05/Image1.jpg)
 
 
-### Características de la POO
+## Características de la POO
 Las principales características de la programación orientada a objetos, son las siguientes:
 
 **Abstracción:** Esta característica nos indica que cada objeto del sistema tiene la capacidad de ser utilizado como modelo de un agente abstracto y que, a su vez, puede comunicarse con otros objetos del sistema, sin necesidad de mostrar las características internas del objeto.
@@ -60,7 +60,7 @@ Las principales características de la programación orientada a objetos, son la
 **Herencia:** La herencia es la característica que tienen los objetos de poder utilizar propiedades y comportamientos de las clases a las que pertenecen.
 
 
-### Referencias bibliográficas
+## Referencias bibliográficas
 https://www.ecured.cu/Programaci%C3%B3n_Orientada_a_Objetos (ecured.cu, s.f.)
 
 http://www.alegsa.com.ar/Diccionario/C/12117.php (Ricardo Madrigal, alegsa.com.ar, 2010)
